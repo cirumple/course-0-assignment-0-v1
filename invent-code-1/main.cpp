@@ -3,5 +3,7 @@
 using namespace std;
 
 int main() {
-  // Write code here.
+  cout << "My name is Cody, I enjoy hiking, I'm excited to learn how to code"; 
+ 
+
 }
